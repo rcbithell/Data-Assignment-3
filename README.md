@@ -9,3 +9,13 @@ https://data.census.gov/table?t=Populations+and+People&g=010XX00US$0500000&y=202
 
 below is data used to merge zip code to county. can also be found in uploaded data files. 
 https://www.huduser.gov/portal/datasets/usps_crosswalk.html
+
+below is data used to obtain hosueing prices by zip code
+https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx
+
+posisble income by county
+https://data.census.gov/table?t=Income+and+Poverty&g=010XX00US$0500000&y=2020
+
+crime rate by county
+https://www.kaggle.com/datasets/mikejohnsonjr/united-states-crime-rates-by-county
+
