@@ -5,7 +5,7 @@ below is the URL to the day county death data colected by the NYT. This file is 
 "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv"
 
 below is the url for the population data (used) county data. can also be found in uploaded data files.
-https://data.census.gov/table?t=Populations+and+People&g=010XX00US$0500000&y=2020&tid=ACSDP5Y2020.DP05
+https://raw.githubusercontent.com/rcbithell/Data-Assignment-3/main/PEPPOP2019.PEPANNRES-Data.csv
 
 below is data used to merge zip code to county. can also be found in uploaded data files. 
 https://www.huduser.gov/portal/datasets/usps_crosswalk.html
